@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pro1000Alex101010101101010001101
 - 👀 I’m interested in backend developing
-- 🌱 I’m currently learning python 3.0
+- 🌱 I’m currently learning python 3.12
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me secondwhite21@gmail.com 
 
